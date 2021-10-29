@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.ieseljust.ad.figures.App",
+            "projectName": "2020_AD_APAC1"
+        }
+    ]
+}
